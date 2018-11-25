@@ -1,0 +1,3 @@
+mutation setStateText($text: String!) {
+    setStateText(text: $text) @client
+}

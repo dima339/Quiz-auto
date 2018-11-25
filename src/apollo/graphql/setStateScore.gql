@@ -1,0 +1,3 @@
+mutation setStateScore {
+    setStateScore @client
+}

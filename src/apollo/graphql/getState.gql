@@ -1,0 +1,6 @@
+query getState {
+    state @client {
+        say
+        count
+    }
+}
