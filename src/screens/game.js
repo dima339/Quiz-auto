@@ -23,7 +23,7 @@ class Game extends Component {
 
     _btnStyle(buttonid) {
 
-        var style = {
+        let style = {
             justifyContent: 'center',
             width: 250,
             height: 50,
@@ -76,7 +76,7 @@ class Game extends Component {
 
     render() {
 
-        var answers = dataBase[this.state.start].answers.map((answer, index) => {
+        let answers = dataBase[this.state.start].answers.map((answer, index) => {
 
             return (
 

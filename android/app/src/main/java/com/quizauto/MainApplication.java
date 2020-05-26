@@ -1,4 +1,4 @@
-package com.appleapollo;
+package com.quizauto;
 
 import android.app.Application;
 

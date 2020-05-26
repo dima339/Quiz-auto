@@ -1,3 +1,3 @@
-rootProject.name = 'AppleApollo'
+rootProject.name = 'QuizAuto'
 
 include ':app'
