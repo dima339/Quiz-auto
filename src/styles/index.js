@@ -35,7 +35,8 @@ export default StyleSheet.create({
     },
     image: {
         height: '45%',
-        width: '80%'
+        width: '80%',
+        borderRadius: 20
     },
     container: {
         flex: 1,
